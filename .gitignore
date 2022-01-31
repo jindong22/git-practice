@@ -1,0 +1,5 @@
+/forder/secrets.yaml
+secrets.yaml
+*.yaml
+!lions.yaml
+!tigers.yaml
